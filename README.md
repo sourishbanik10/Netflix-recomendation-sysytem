@@ -1,5 +1,10 @@
 🎬 Hybrid Movie Recommendation System
 
+🚀 Live Demo
+
+https://netflix-recomendation-sysytem-hitnniveesc4unawsrqljn.streamlit.app/
+
+
 A full-stack Machine Learning project that builds a Hybrid Recommendation Engine combining:
 
 Content-Based Filtering
@@ -12,9 +17,6 @@ Streamlit Web Application
 
 Cloud Deployment
 
-🚀 Live Demo
-
-🔗 [Add your deployed Streamlit link here]
 
 📌 Project Overview
 
@@ -124,5 +126,6 @@ Add trending section
 Add user login simulation
 
 Improve ranking strategy
+
 
 Add evaluation metrics (RMSE, Precision@K)
